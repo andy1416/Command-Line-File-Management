@@ -1,4 +1,4 @@
-<h1>Command Line File Managment</h1>
+<h1>Command Line File Management</h1>
 <h1>Project Overview</h1>
 <p1>The Command Line File Management project entails the deployment and management of a virtual server using AWS LightSail, with CentOS chosen as the operating system. It primarily focuses on enhancing proficiency in Linux Command Line by exclusively utilizing the command line interface for system navigation, file manipulation, and network configuration. The project showcases expertise in AWS LightSail for seamless deployment and configuration of virtual machines, thereby bolstering cloud-based management skills.</p1>
 <h2>Key Components</h2>
